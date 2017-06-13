@@ -1,0 +1,14 @@
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\com.icaxs.chromeembedded.dll.config
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\com.icaxs.chromeembedded.dll
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\com.icaxs.chromeembedded.pdb
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\CefSharp.dll
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\CefSharp.xml
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\obj\x86\Debug\com.icaxs.chromeembedded.Properties.Resources.resources
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\obj\x86\Debug\com.icaxs.chromeembedded.csproj.GenerateResource.Cache
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\obj\x86\Debug\com.icaxs.chromeembedded.dll
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\obj\x86\Debug\com.icaxs.chromeembedded.pdb
+C:\Users\iCAE\Desktop\icads\ChromeEmbedded\ChromeEmbedded\obj\x86\Debug\com.icaxs.chromeembedded.csprojResolveAssemblyReference.cache

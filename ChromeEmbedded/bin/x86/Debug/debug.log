@@ -1,0 +1,55 @@
+[0612/213222:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0612/213222:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0612/213222:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0612/213222:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0612/213222:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0612/213222:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0612/213222:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0612/213222:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0612/213222:ERROR:gl_surface_win.cc(67)] GLSurfaceEGL::InitializeOneOff failed.
+[0612/213222:ERROR:gpu_child_thread.cc(260)] Exiting GPU process due to errors during initialization
+[0612/213222:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
+[0613/143619:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/143619:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/143619:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/143619:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/143619:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/143619:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/143619:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/143619:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/143619:ERROR:gl_surface_win.cc(67)] GLSurfaceEGL::InitializeOneOff failed.
+[0613/143619:ERROR:gpu_child_thread.cc(260)] Exiting GPU process due to errors during initialization
+[0613/143619:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
+[0613/143640:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/143640:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/143641:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/143641:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/143641:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/143641:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/143641:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/143641:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/143641:ERROR:gl_surface_win.cc(67)] GLSurfaceEGL::InitializeOneOff failed.
+[0613/143641:ERROR:gpu_child_thread.cc(260)] Exiting GPU process due to errors during initialization
+[0613/143641:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
+[0613/145628:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/145628:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/145628:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/145628:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/145628:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/145628:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/145628:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/145628:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/145628:ERROR:gl_surface_win.cc(67)] GLSurfaceEGL::InitializeOneOff failed.
+[0613/145628:ERROR:gpu_child_thread.cc(260)] Exiting GPU process due to errors during initialization
+[0613/145628:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
+[0613/145645:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/145645:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/145646:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/145646:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/145646:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Could not create D3D11 device.
+[0613/145646:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0613/145646:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0613/145646:ERROR:gl_surface_egl.cc(513)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0613/145646:ERROR:gl_surface_win.cc(67)] GLSurfaceEGL::InitializeOneOff failed.
+[0613/145646:ERROR:gpu_child_thread.cc(260)] Exiting GPU process due to errors during initialization
+[0613/145646:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to launch GPU process.
