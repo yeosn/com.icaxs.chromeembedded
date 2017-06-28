@@ -7,9 +7,9 @@ using CefSharp;
 using CefSharp.WinForms;
 using System.Windows.Forms;
 
-namespace com.icaxs.chromeembedded
+namespace ChromeEmbedded
 {
-    public class MyChromium
+    public class MyChromium : Control
     {
         /*
          * 当前的webkit的问题：
@@ -45,6 +45,9 @@ namespace com.icaxs.chromeembedded
             //Setting is initialized only once!
             Cef.Initialize(settings);
             chromeBrowser = new ChromiumWebBrowser(url);
+
+            this.Controls.Add(chromeBrowser);
+            chromeBrowser.Dock = DockStyle.Fill;
         }
 
         public Control GetBrowser()

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace com.icaxs.chromeembedded.Properties
+namespace ChromeEmbeddedTest.Properties
 {
 
 
